@@ -1,0 +1,22 @@
+/* label{
+    margin: 3px;
+    color:rgba(136, 4, 230, 0.459);
+   
+}
+input{
+    color: rgb(5, 0, 8);
+  background-color:  rgba(208, 185, 224, 0.802);
+  font-weight: bold;
+}*/
+button{
+    border:none;
+    background-color: rgba(58, 1, 98, 0.459);
+
+    margin:5px;
+    width: auto;
+    height: 25px;
+    border-radius: 2px;
+    font-size:small;
+    text-align: center;
+    box-shadow: 5px 8px 12px rgba(0, 0, 0, 0.769);
+} 

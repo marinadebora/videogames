@@ -1,0 +1,25 @@
+.contain {
+    margin:0;
+   -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 800px;
+    background-image:url('../images/wallpaperbetter\ \(1\).jpg');
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size:cover; 
+    }
+   
+ 
+    .btn {
+     margin-top: 400px;
+     border: none;
+     background: #050508df;
+     color: rgb(255, 255, 255);
+     width: 75px;
+     height: 35px;
+     border-radius: 2px;
+     box-shadow: 5px 8px 12px black;
+     transition:all 0.3s ease-in-out ;
+               
+    }
